@@ -8,7 +8,7 @@ Basic functionality of Java - (fun language).
 
 
 <h1 align="center">Hi 👋, I'm Kegi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkegix" alt="xkegix" /></a> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xkegix&" alt="xkegix" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkegix" alt="xkegix" /></a> </p>
